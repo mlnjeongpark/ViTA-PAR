@@ -2,7 +2,8 @@
 [![Alt text](assets/image.png)](https://arxiv.org/pdf/2506.01411)
 ![main](assets/main.png)
 [[Project Page]](https://mlnjeongpark.github.io/ViTA-PAR)
-[[arXiv]](https://mlnjeongpark.github.io/ViTA-PAR)
+[[arXiv]](https://arxiv.org/abs/2506.01411)
+
 
 
 ## Abstract
